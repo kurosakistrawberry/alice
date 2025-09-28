@@ -11,18 +11,18 @@ API_ID = 21511354
 API_HASH = "2f1042857f43cb02512bb2a3f46da9a3"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "8167116121:AAGYhDD9mxTKOYM2V-0w83Zo6qbJw_pRzXc"
+BOT_TOKEN = "8355791623:AAG3K74XvbBqVNwCPRix_N_nmENEdj_iSy4"
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = "mongodb+srv://kurosaki_strawberry:kurosaki_strawberry@cluster0.xepavm6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_DB_URI = "mongodb+srv://thesimpposium:123098456765@simpposium@orihime.fqgoo6u.mongodb.net/?retryWrites=true&w=majority&appName=Orihime"
 
-DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
+DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 120))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = -1002637555396
+LOG_GROUP_ID = -1002318392631
 
 # Get this value from @ultron2_robot on Telegram by /id
-OWNER_ID = 7225022432
+OWNER_ID = 7891690909
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = "https://t.me/cosmosis_channel"
-SUPPORT_GROUP = "https://t.me/cosmosis_gc"
+SUPPORT_CHANNEL = "https://t.me/KurosakiEternity"
+SUPPORT_GROUP = "https://t.me/+8aFtwHtKgy42YzYx"
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = "BQFIPLoABOu9mhgxT1YvlpeREw2pvX5Q4GiqCm3w2fwQJ4Q3g1g_dWvOBVWJmS9JTB1iPyJjGn6RErV2jN7lshBkMB6OHCp71gE_m_qqbPHCN0ED3-J0iBq5qJW2ChShesVvyleR4FtMlOrd7dJdk7-iHmbL-xmQN9PgpYHJrPgv0Loe_YzQqylS_7wqAP-0ZkLbXCAhN3q3YgtnKV-zWe-gDmAFumBLJVkqGJn5qV7LdkBE2RTyGwhAvAdajTUxyPF_eWWdyYT9BQlNWF07Gx7afjiyz_ETc28yCczumYSPQru_cy4XtnCHO8a1HntooF2F8XGMzCiKVEWGlT-gonhRrHcPMgAAAAHmzE1ZAQ"
+STRING1 = "BQFIPLoArgvh5iCggnP9LtuF_g9QtiSyBNJCoxVEM9BTpFq4_prg00Y0ZOaIL8JOL9nOrFQcnaGOe2WTwQnqOdxPpBY9EbeN6Z8PsL0CnV9TyAWBX4Gr4xSNQfYleOXXYKRCGuFzcrPV5Ha7QQOA8BPsOeGZTabWwEonIrynvUaHb2mGOL_zN8rzmJyE99xK6LD422s9hlcgziaQSk_z3gRPWM6QAdO_xU4XuA6IqsOptdrBp654v52x9mmDUjiXIaPmVuphIi2RomH-eWojDN38yoPhR7E8Ba9Adqx497BF4YDEOYGo77RrQjjv6J4PEId9x0ML4Dw36Nm7cXE8TZpZQ4NkUgAAAAHWYaWdAA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -77,20 +77,20 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = "https://graph.org/file/51f37fc9e35f11a4c7cb5-ac3f1917f31c48653d.jpg"
+START_IMG_URL = "https://graph.org/file/8bb2eae1d42d2b0071649-1dbcfe3e96a45d3b10.jpg"
 
-PING_IMG_URL = "https://graph.org/file/51f37fc9e35f11a4c7cb5-ac3f1917f31c48653d.jpg"
+PING_IMG_URL = "https://graph.org/file/51f021dd9574d6b02c125-58b20c849c9a85bf64.jpg"
 
-PLAYLIST_IMG_URL = "https://graph.org/file/763a841a2ad5cbb1e2fc5.jpg"
-STATS_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
-TELEGRAM_VIDEO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
-STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
-YOUTUBE_IMG_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/b35fd1dfca73b950b1b05.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/95b3ca7993bbfaf993dcb.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/976ecf5fb03f3decd4164-15649fe3277e68a805.jpg"
+STATS_IMG_URL = "https://graph.org/file/51f021dd9574d6b02c125-58b20c849c9a85bf64.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/51f021dd9574d6b02c125-58b20c849c9a85bf64.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/51f021dd9574d6b02c125-58b20c849c9a85bf64.jpg"
+STREAM_IMG_URL = "https://graph.org/file/51f021dd9574d6b02c125-58b20c849c9a85bf64.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/51f021dd9574d6b02c125-58b20c849c9a85bf64.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/51f021dd9574d6b02c125-58b20c849c9a85bf64.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/51f021dd9574d6b02c125-58b20c849c9a85bf64.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/51f021dd9574d6b02c125-58b20c849c9a85bf64.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/51f021dd9574d6b02c125-58b20c849c9a85bf64.jpg"
 
 
 def time_to_seconds(time):
@@ -112,3 +112,4 @@ if SUPPORT_GROUP:
         raise SystemExit(
             "[ERROR] - Your SUPPORT_GROUP url is wrong. Please ensure that it starts with https://"
         )
+
