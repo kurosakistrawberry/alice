@@ -26,9 +26,9 @@ OWNER_ID = 7891690909
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
+HEROKU_APP_NAME = getenv("orihime00gc")
 # Get it from http://dashboard.heroku.com/account
-HEROKU_API_KEY = getenv("HEROKU_API_KEY")
+HEROKU_API_KEY = getenv("HRKU-AA7r3K5PNGYBoNIeWWDA8L_iump_rBRnGJClOp4FRXEA_wO9JLjJ75X9")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
@@ -40,7 +40,7 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = "https://t.me/KurosakiEternity"
-SUPPORT_GROUP = "https://t.me/+8aFtwHtKgy42YzYx"
+SUPPORT_GROUP = "https://t.me/+8VQeol08IElhNjRl"
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -77,11 +77,11 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = "https://graph.org/file/8bb2eae1d42d2b0071649-1dbcfe3e96a45d3b10.jpg"
+START_IMG_URL = "https://graph.org/file/51f021dd9574d6b02c125-58b20c849c9a85bf64.jpg"
 
 PING_IMG_URL = "https://graph.org/file/51f021dd9574d6b02c125-58b20c849c9a85bf64.jpg"
 
-PLAYLIST_IMG_URL = "https://graph.org/file/976ecf5fb03f3decd4164-15649fe3277e68a805.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/51f021dd9574d6b02c125-58b20c849c9a85bf64.jpg"
 STATS_IMG_URL = "https://graph.org/file/51f021dd9574d6b02c125-58b20c849c9a85bf64.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org/file/51f021dd9574d6b02c125-58b20c849c9a85bf64.jpg"
 TELEGRAM_VIDEO_URL = "https://graph.org/file/51f021dd9574d6b02c125-58b20c849c9a85bf64.jpg"
@@ -112,4 +112,5 @@ if SUPPORT_GROUP:
         raise SystemExit(
             "[ERROR] - Your SUPPORT_GROUP url is wrong. Please ensure that it starts with https://"
         )
+
 
