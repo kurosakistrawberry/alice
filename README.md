@@ -1,7 +1,7 @@
 <h1 align="center">🎵 Alice Music Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://graph.org/file/51f021dd9574d6b02c125-58b20c849c9a85bf64.jpg" alt="Orihime Music Logo" width="736" height="736">
+  <img src="https://graph.org/file/791b5a583106058f57098-058907544196c0725b.jpg" alt="Orihime Music Logo" width="600" height="350">
 </p>
 
 <p align="center">
