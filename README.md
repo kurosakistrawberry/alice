@@ -41,7 +41,7 @@ The Alice Music Bot offers various commands to enhance your music experience on 
 | `/stop`                 | Stop the bot and clear the queue.           |
 | `/queue`                | Show the list of songs in the queue.        |
 
-For a full list of commands, use `/help` in [Telegram](https://t.me/thanos_pro).
+For a full list of commands, use `/help` in [Telegram](https://t.me/+8VQeol08IElhNjRl).
 
 ---
 
@@ -50,10 +50,10 @@ For a full list of commands, use `/help` in [Telegram](https://t.me/thanos_pro).
 Stay updated with the latest features and improvements for Alice Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/thanosprosss">
+  <a href="https://t.me/+8VQeol08IElhNjRl">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/thanos_pro">
+  <a href="[https://telegram.me/thanos_pro](https://t.me/+8VQeol08IElhNjRl)">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
