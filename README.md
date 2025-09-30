@@ -1,7 +1,7 @@
 <h1 align="center">🎵 Alice Music Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://graph.org/file/f586172fe40a0b5d0b0df.jpg" alt="Alice Music Logo" width="600" height="350">
+  <img src="https://graph.org/file/51f021dd9574d6b02c125-58b20c849c9a85bf64.jpg" alt="Orihime Music Logo" width="736" height="736">
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ Stay updated with the latest features and improvements for Alice Music Bot:
 
 ### 🤝 Contributing
 
-We welcome contributions to the Alice Music Bot project. To contribute:
+We welcome contributions to the Orihime Music Bot project. To contribute:
 
 1. Fork the repository.
 2. Create a new branch with a meaningful name.
@@ -82,7 +82,7 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 ### 🙏 Acknowledgements
 
-Special thanks to all contributors, supporters, and users of Alice Music Bot. Your feedback and support keep us going!
+Special thanks to all contributors, supporters, and users of Orihime Music Bot. Your feedback and support keep us going!
 - [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot)
 - [AnonXMusic](https://github.com/AnonymousX1025/AnonXMusic) for their source code.
 - 
